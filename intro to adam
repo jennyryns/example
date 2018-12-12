@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang='en' dir='ltr'>
+<head>
+</head>
+<body>
+  <div id='cover' class='page'>
+    <h1>Jennifer Reynoso</h1>
+    <h4> Professional Skydiver </h4>
+  <p> <em> Jennifer@pushmeoffa.plane </em> </p>
+  </div>
+
+  <div id= 'info' class='page'>
+    <div>
+  <p> Hello, I like to dive into things head first... </p>
+  and I encourage you to do the same with my resume. </p>
+  </div>
+  <div id= 'experience'>
+  <h3> Things I've jumped out of: </h3>
+  <ul>
+    <li> Small Planes </li>
+    <li> Big Planes </li>
+    <li> Really Big Planes </li>
+    <li> Really <strong> REALLY </strong> Big Planes </li>
+  </ul>
+    <p2> Yeah I did
+    <a href="https://www.youtube.com/watch?v=me6BgmeTH3k" target="_blank">
+      THAT </a> </p>
+  </div>
+  </div>
+  <div id='projects' class='examples'>
+    <h3> Me doing what I do best :) </h3>
+  <div id= coolio class= 'fly'>
+    <img
+       src='https://lh3.googleusercontent.com/-x_Zrk-B2hig/W6scZz3jqII/AAAAAAAAADc/5hhCe0fF2joyzrd1RbR1EtJJ6_qfbpfpgCL0BGAs/w1060-d-h472-n-rw/helmet%2Bso%2Bflyyy.jpg' width="200px" height="100px" >
+    <p> In my natural habitat </p>
+  </div>
+
+   <div id= grandma class= "fly">
+     <img
+         src="https://lh3.googleusercontent.com/-r2JgEgk60jg/W6scdj0yPGI/AAAAAAAAAD0/UPWOwngvD3AKsuTSfQw0ZyzyXBP0BOZRQCL0BGAs/w1060-d-h794-n-rw/gma%2Bfly.jpg" width='200px' alt="">
+     <p> Everyone can do it! </p>
+       </div>
+
+      <div id= laptop class= "fly">
+        <img
+         src="https://lh3.googleusercontent.com/xO9_40qZOfxCkHpFxhF_bHMAYiMlSXi9Gl266t4gNFbnC1iiM68LJaZWVYpful_QV_2UN-nK=w1280-h720-p-rw" width="200">
+        <p> Yes I am indeed a multitasker </p>
+  </div>
+  </div>
+  <div class='Steps'>
+  <h3> Steps to take before contacting me: </h3>
+  <ol>
+    <li> Do you want to die? </li>
+    <li> no. please exit. </li>
+    <li> yes. good job. </li>
+    <li> That's all you need to know </li>
+    </div>
+  </body>
+</html>

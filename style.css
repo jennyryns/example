@@ -1,0 +1,40 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto+Condensed'
+);
+body {
+  font-family:'Roboto Condensed',
+    condensed;
+
+}
+#landing {
+  text-align:center;
+}
+#landing h4 {
+  text-decoration: underline;
+  }
+
+.page {
+  min-height:100vh;
+  border-bottom: 2px solid black;
+}
+.page2 {
+  min-height: 100vh;
+  border-bottom:2px solid black;
+
+}
+.fly  {
+    display: inline-block;
+    margin: 20px;
+  border: 1px solid blue;
+  padding: 16px;
+  }
+img {
+  display: flex;
+  jusify-content: space-around;
+  flex-wrap:wrap;
+  height: 35vh
+}
+body {
+  min-height: 100vh;
+  background-image:linear-gradient(lightpink, lightblue);
+  color:black;
+}
